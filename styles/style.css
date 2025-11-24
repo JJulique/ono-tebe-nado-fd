@@ -21,7 +21,7 @@
   color: #000;
 }
 
-.header__links-list-item.link__active {
+.header__links-list-item.no-bullit {
   text-decoration: none;
   list-style: none;
 }
@@ -33,7 +33,7 @@
 .logo {
   display: block;
   width: 148px;
-  height: auto;
+  height: 105px;
 }
 
 .address {
@@ -158,7 +158,6 @@
   width: 334px;
   padding: 0;
   margin-bottom: 30px;
-  margin-top: 27px;
 }
 
 .card-link {
